@@ -1,0 +1,37 @@
+What does iframe mean?
+
+
+International frame.
+
+Inline form.
+
+Inline frame.
+Correct!
+
+
+Inline form element.
+
+Which attribute of the iframe element specifies the location of what you want to embed?
+
+
+src
+Correct!
+
+
+url
+
+frameborder
+
+cross-origin
+
+Which attribute of the iframe element do you use instead of src if you want to embed direct HTML?
+
+
+html
+
+document
+
+srcweb
+
+srcdoc
+Correct!
